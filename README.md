@@ -27,4 +27,3 @@ cd sadaka-donation-app
 flutter pub get
 flutter run
 
-Firebase and Google Maps keys are required to run it on your own machine.
